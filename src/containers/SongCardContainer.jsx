@@ -13,7 +13,7 @@ const SongCardContainer = ({songs}) => {
     const classes = useStyles()
     return (
         <div className={classes.container}>
-            {songs.map(song => (
+            {songs?.map(song => (
                 <SongCard song={song}/>
             ))}
         </div>

@@ -32,13 +32,21 @@ const useStyles = makeStyles({
   },
 });
 
+const albumArt = {
+  Guppy:
+    "https://media.npr.org/assets/img/2017/04/11/charly-bliss-cover_sq-e42da301cadf62b69679b48e05843fed80388f34.jpg",
+  "Young Enough":
+    "https://images-na.ssl-images-amazon.com/images/I/71yT7ZUA3AL._SL1400_.jpg",
+  "Supermoon EP": "https://f4.bcbits.com/img/a4265614415_10.jpg",
+};
+
 const SongCard = ({ song }) => {
   const classes = useStyles();
 
   return (
     <Card className={classes.root}>
       <CardContent>
-        <CardMedia image={song.albumArt} className={classes.media} />
+        <CardMedia image={albumArt[song.album]} className={classes.media} />
         <Typography variant="h5" component="h2">
           {song.title}
         </Typography>

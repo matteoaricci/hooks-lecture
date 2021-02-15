@@ -37,7 +37,7 @@ const Navbar = () => {
           <Typography variant="h6" className={classes.title}>
             Charly Bliss Fans
           </Typography>
-          <Button color="inherit">Add New Song</Button>
+          {/* <Button color="inherit">Add New Song</Button> */}
         </Toolbar>
       </AppBar>
     </div>
