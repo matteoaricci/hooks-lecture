@@ -4,19 +4,27 @@
       "title": "Capcity",
       "body": "I used to think that\nI should be good at everything\nNow I know I was wrong\nI used to think that\nI should do right by everyone\nNow I know I was wrong\nA couple of things is enough\nBut now I know that\nEvery wave is just that - cresting and crashing\nIf it haunted you then\nNow you don't remember it",
       "album": "Young Enough",
-      "id": 1
+      "id": 1,
+      "albumArt": "https://images-na.ssl-images-amazon.com/images/I/71yT7ZUA3AL._SL1400_.jpg"
     },
     {
       "title": "Supermoon",
       "body": "My legs are uncrossed, my hands are unglued\r\nI didn't even see the supermoon\r\nParadise lost, a limb that's removed\r\nI didn't even see the supermoon\r\nHate to make you have to hate it\r\nWant and need to instigate it\r\nHate to make you have to hate it\r\nHate to make you have",
       "album": "Supermoon EP",
-      "id": 2
+      "id": 2,
+      "albumArt": "https://f4.bcbits.com/img/a4265614415_10.jpg"
     },
     {
-        "title": "Gatorade",
-        "body": "My mouth is red from Gatorade\r\nI wish that I could make a trade\r\nThe sun is hot\r\nI try not to see my friends with clocks for heads\r\nIt makes me think about it more instead\r\nEverybody's reaching out to me\r\nEverybody's reaching out to me",
-        "album": "Guppy",
-        "id": 3
-      }
+      "title": "Gatorade",
+      "body": "My mouth is red from Gatorade\r\nI wish that I could make a trade\r\nThe sun is hot\r\nI try not to see my friends with clocks for heads\r\nIt makes me think about it more instead\r\nEverybody's reaching out to me\r\nEverybody's reaching out to me",
+      "album": "Guppy",
+      "id": 3,
+      "albumArt": "https://media.npr.org/assets/img/2017/04/11/charly-bliss-cover_sq-e42da301cadf62b69679b48e05843fed80388f34.jpg"
+    },
+    {
+      "album": "Guppy",
+      "title": "Percolator",
+      "id": 4
+    }
   ]
 }
